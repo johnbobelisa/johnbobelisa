@@ -1,4 +1,4 @@
-## Hi there 👋 - Here are some things I've built 👇
+## Hi there 👋 - Here are some of the things I've built 👇
 ![Demo](watchAI.gif)
 
 <!--
