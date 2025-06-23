@@ -1,5 +1,5 @@
-## Hi there 👋
-![Demo](demo.gif)
+## Hi there 👋 - Here are some things I've built 👇
+![Demo](watchAI.gif)
 
 <!--
 **johnbobelisa/johnbobelisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
