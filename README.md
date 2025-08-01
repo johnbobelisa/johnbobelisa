@@ -1,17 +1,18 @@
-## Hi there 👋 - Here are some of the things I've built 👇
-![Demo](watchAI.gif)
+# 👋 Hi, I'm John!
 
-<!--
-**johnbobelisa/johnbobelisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+Here are a few things I've been working on:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [FermatsBeta](https://github.com/johnbobelisa/FermatsBeta) | [📊 DataViz Dashboard](https://github.com/yourusername/DataVizDashboard) |
+|---------------------------------------------------------------|--------------------------------------------------------------------------|
+| ![FermatsBeta](demo.gif)                        | ![DataViz](watchAI.gif)                                          |
+
+| [🧠 NLP Resume Filter](https://github.com/yourusername/NLPResumeFilter) | [AI Snake](https://github.com/johnbobelisa/ai-snake) |
+|------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| ![NLP](watchAI.gif)                                                | ![Classifier](watchAI.gif)                                           |
+
+---
+
+> 🎞️ GIFs auto-play when loaded. Click any project to explore more!
