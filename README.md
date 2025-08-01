@@ -9,8 +9,8 @@ Here are a few things I've been working on:
 |---------------------------------------------------------------|--------------------------------------------------------------------------|
 | ![FermatsBeta](fermats_beta_demo.gif)                        | ![DataViz](watchAI.gif)                                          |
 
-| [NLP Resume Filter](https://github.com/yourusername/NLPResumeFilter) | [AI Snake](https://github.com/johnbobelisa/ai-snake) |
+| [Physics Simulator](https://github.com/johnbobelisa/physim) | [AI Snake](https://github.com/johnbobelisa/ai-snake) |
 |------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| ![NLP](watchAI.gif)                                                | ![Classifier](watchAI.gif)                                           |
+| ![Physim](physim.gif)                                                | ![Classifier](watchAI.gif)                                           |
 
 ---
